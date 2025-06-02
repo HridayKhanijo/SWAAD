@@ -1,25 +1,17 @@
-# shoppingsite
+#SWAAD
 Watch it on youtube now...
-https://www.youtube.com/watch?v=GiWJQOin5dk
+https://youtu.be/TUgvhSieLPI
 
 Some screenshots from the project
 
-![Screenshot (142)](https://user-images.githubusercontent.com/68517660/138282796-0e46154f-b75f-438c-93a6-e9a56c0681d8.png)
+![Screenshot 2025-06-02 033650](https://github.com/user-attachments/assets/f782182b-df4b-4baf-87f6-40c59271e3af)
 
 
 
+![Screenshot 2025-06-02 054455](https://github.com/user-attachments/assets/7722b593-1622-453a-9e2d-54943104b17e)
 
 
-![Screenshot (143)](https://user-images.githubusercontent.com/68517660/138282991-029ba283-88d5-43e9-85b1-c151b832f8a7.png)
+![Screenshot 2025-06-02 054341](https://github.com/user-attachments/assets/28bca3c3-549f-486e-9606-7d2f22dbf772)
 
 
-
-
-
-![127 0 0 1_5501_index html(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/68517660/138283072-c5615461-d397-4a16-ad1f-8538dd0104cd.png)
-
-
-
-
-
-![127 0 0 1_5501_index html(iPhone 6_7_8) (2)](https://user-images.githubusercontent.com/68517660/138283097-b0d813e7-28af-4e54-bfca-f10c03effa8c.png)
+![Screenshot 2025-06-02 033727](https://github.com/user-attachments/assets/12892843-bcce-4dab-881f-d89785f199bd)
